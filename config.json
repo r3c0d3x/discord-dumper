@@ -1,0 +1,7 @@
+{
+    "username": "email@example.com",
+    "password": "password",
+    "format": "%t: (%I) <%u#%d> %M",
+    "channel": "channel_name",
+    "filename": "valid_file_name.txt"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "discord_dump",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.5"
+  },
+  "scripts": {
+    "install": "npm install --no-optional discord.js@^7.0.1"
+  }
+}
